@@ -13,7 +13,7 @@
     <script src="/js/prototypePre.js"></script>
     <script src="/js/document.js"></script>
     <script src="/js/prototypePost.js"></script>
-    <script src="/js/gallerie_photo.js"></script>
+    <script src="/js/galerie_photo.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };

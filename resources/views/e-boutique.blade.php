@@ -7,13 +7,13 @@
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="/assets/css/e-boutique.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/e-commerce.css" type="text/css" rel="stylesheet"/>
     <script src="/js/jquery-1.7.1.min.js"></script>
     <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="/js/prototypePre.js"></script>
     <script src="/js/document.js"></script>
     <script src="/js/prototypePost.js"></script>
-    <script src="/js/e-boutique.js"></script>
+    <script src="/js/e-commerce.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
