@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/salari__-_evenement/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/salari__-_evenement/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/salarie_evenement.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/salarie_evenement.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -30,7 +30,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u361" class="ax_default image">
-        <img id="u361_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u361_img" class="img " src="/assets/image/u1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -64,12 +64,12 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u366" class="ax_default box_1">
-        <img id="u366_img" class="img " src="images/salari__-_evenement/u366.png"/>
+        <img id="u366_img" class="img " src="/assets/image/u366.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u367" class="ax_default image">
-        <img id="u367_img" class="img " src="images/salari__-_evenement/u367.png"/>
+        <img id="u367_img" class="img " src="/assets/image/u367.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -98,17 +98,17 @@
 
       <!-- Unnamed (Placeholder) -->
       <div id="u371" class="ax_default placeholder">
-        <img id="u371_img" class="img " src="images/salari__-_evenement/u371.png"/>
+        <img id="u371_img" class="img " src="/assets/image/u371.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u372" class="ax_default icon">
-        <img id="u372_img" class="img " src="images/salari__-_evenement/u372.png"/>
+        <img id="u372_img" class="img " src="/assets/image/u372.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u373" class="ax_default icon">
-        <img id="u373_img" class="img " src="images/salari__-_evenement/u373.png"/>
+        <img id="u373_img" class="img " src="/assets/image/u373.png"/>
       </div>
 
       <!-- Unnamed (Text Field) -->
@@ -123,17 +123,17 @@
 
       <!-- Unnamed (Image) -->
       <div id="u376" class="ax_default image">
-        <img id="u376_img" class="img " src="images/salari__-_evenement/u376.png"/>
+        <img id="u376_img" class="img " src="/assets/image/u376.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u377" class="ax_default image">
-        <img id="u377_img" class="img " src="images/salari__-_evenement/u376.png"/>
+        <img id="u377_img" class="img " src="/assets/image/u376.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u378" class="ax_default image">
-        <img id="u378_img" class="img " src="images/salari__-_evenement/u376.png"/>
+        <img id="u378_img" class="img " src="/assets/image/u376.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
