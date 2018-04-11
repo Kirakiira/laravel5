@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/bde_-_menu_evenement/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/bde_-_menu_evenement/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/bde_menu_evenement.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/bde_menu_evenement.js"></script>
     <script type="text/javascript">
         $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
         $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -51,7 +51,7 @@
 
     <!-- Unnamed (Image) -->
     <div id="u191" class="ax_default image">
-        <img id="u191_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u191_img" class="img " src="/assets/image/u1.jpg"/>
     </div>
 
     <!-- Unnamed (Rectangle) -->
@@ -64,12 +64,12 @@
 
     <!-- Unnamed (Shape) -->
     <div id="u193" class="ax_default box_1">
-        <img id="u193_img" class="img " src="images/bde_-_menu_evenement/u193.png"/>
+        <img id="u193_img" class="img " src="/assets/image/u193.png"/>
     </div>
 
     <!-- Unnamed (Shape) -->
     <div id="u194" class="ax_default box_1">
-        <img id="u194_img" class="img " src="images/bde_-_menu_evenement/u193.png"/>
+        <img id="u194_img" class="img " src="/assets/image/u193.png"/>
     </div>
 
     <!-- Unnamed (Rectangle) -->
@@ -82,12 +82,12 @@
 
     <!-- Unnamed (Shape) -->
     <div id="u196" class="ax_default icon">
-        <img id="u196_img" class="img " src="images/bde_-_menu_evenement/u196.png"/>
+        <img id="u196_img" class="img " src="/assets/image/u196.png"/>
     </div>
 
     <!-- Unnamed (Shape) -->
     <div id="u197" class="ax_default icon">
-        <img id="u197_img" class="img " src="images/bde_-_menu_evenement/u197.png"/>
+        <img id="u197_img" class="img " src="/assets/image/u197.png"/>
     </div>
 
     <!-- Unnamed (Rectangle) -->
