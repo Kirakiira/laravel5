@@ -5,9 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link rel="stylesheet" href="style.css"/>
     <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/accueil.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css" />
+    <script
+            src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="/js/jquery-1.7.1.min.js"></script>
     <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="/js/prototypePre.js"></script>
@@ -101,11 +109,6 @@
         </div>
     </div>
 
-    <!-- Unnamed (Image) -->
-    <div id="u12" class="ax_default image">
-        <img id="u12_img" class="img " src="/assets/image/u12.png"/>
-    </div>
-
     <!-- Unnamed (Rectangle) -->
     <div id="u13" class="ax_default link_button">
         <div id="u13_div" class=""></div>
@@ -122,16 +125,6 @@
         </div>
     </div>
 
-    <!-- Unnamed (Rectangle) -->
-    <div id="u15" class="ax_default box_1">
-        <div id="u15_div" class=""></div>
-    </div>
-
-    <!-- Unnamed (Text Area) -->
-    <div id="u16" class="ax_default text_area">
-        <textarea id="u16_input"></textarea>
-    </div>
-
     <!-- Unnamed (Shape) -->
     <div id="u17" class="ax_default icon">
         <img id="u17_img" class="img " src="/assets/image/u17.png"/>
@@ -144,6 +137,43 @@
             <p><span>Galerie</span></p>
         </div>
     </div>
+    </div>
+    <br><br><br><br><br><br><br><br><br>
+    <center>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="/assets/image/photo1.JPG" alt="Los Angeles">
+            </div>
+
+            <div class="item">
+                <img src="/assets/image/photo1.JPG" alt="Chicago">
+            </div>
+
+            <div class="item">
+                <img src="/assets/image/photo1.JPG" alt="New York">
+            </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</center>
 </div>
 </body>
 </html>

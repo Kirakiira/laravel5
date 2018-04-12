@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/salari__-_article/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/salari__-_article/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/salarie_article.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/salarie_article.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -30,7 +30,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u517" class="ax_default image">
-        <img id="u517_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u517_img" class="img " src="/assets/image/u1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -43,7 +43,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u519" class="ax_default icon">
-        <img id="u519_img" class="img " src="images/e-boutique/u495.png"/>
+        <img id="u519_img" class="img " src="/assets/image/u495.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -72,12 +72,12 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u523" class="ax_default icon">
-        <img id="u523_img" class="img " src="images/e-boutique/u499.png"/>
+        <img id="u523_img" class="img " src="/assets/image/u499.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u524" class="ax_default icon">
-        <img id="u524_img" class="img " src="images/e-boutique/u500.png"/>
+        <img id="u524_img" class="img " src="/assets/image/u500.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -103,22 +103,22 @@
 
       <!-- Unnamed (Image) -->
       <div id="u528" class="ax_default image">
-        <img id="u528_img" class="img " src="images/salari__-_article/u528.png"/>
+        <img id="u528_img" class="img " src="/assets/image/u528.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u529" class="ax_default image">
-        <img id="u529_img" class="img " src="images/salari__-_article/u529.png"/>
+        <img id="u529_img" class="img " src="/assets/image/u529.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u530" class="ax_default image">
-        <img id="u530_img" class="img " src="images/salari__-_article/u529.png"/>
+        <img id="u530_img" class="img " src="/assets/image/u529.png"/>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u531" class="ax_default image">
-        <img id="u531_img" class="img " src="images/salari__-_article/u529.png"/>
+        <img id="u531_img" class="img " src="/assets/image/u529.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -212,7 +212,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u542" class="ax_default icon">
-        <img id="u542_img" class="img " src="images/e-boutique/u514.png"/>
+        <img id="u542_img" class="img " src="/assets/image/u514.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->

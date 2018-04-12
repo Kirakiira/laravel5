@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/panier/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/panier/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/panier.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/panier.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -30,7 +30,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u593" class="ax_default image">
-        <img id="u593_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u593_img" class="img " src="/assets/image/u1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -43,7 +43,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u595" class="ax_default icon">
-        <img id="u595_img" class="img " src="images/e-boutique/u495.png"/>
+        <img id="u595_img" class="img " src="/assets/image/u495.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -72,12 +72,12 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u599" class="ax_default icon">
-        <img id="u599_img" class="img " src="images/e-boutique/u499.png"/>
+        <img id="u599_img" class="img " src="/assets/image/u499.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u600" class="ax_default icon">
-        <img id="u600_img" class="img " src="images/e-boutique/u500.png"/>
+        <img id="u600_img" class="img " src="/assets/image/u500.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -106,7 +106,7 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u605" class="ax_default heading_2">
-          <img id="u605_img" class="img " src="images/panier/u605.png"/>
+          <img id="u605_img" class="img " src="/assets/image/u605.png"/>
           <div id="u605_text" class="text ">
             <p><span style="font-family:'Arial Gras', 'Arial Normal', 'Arial';font-weight:700;">Votre Panier</span></p>
           </div>
@@ -114,7 +114,7 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u606" class="ax_default table_cell">
-          <img id="u606_img" class="img " src="images/panier/u606.png"/>
+          <img id="u606_img" class="img " src="/assets/image/u606.png"/>
           <div id="u606_text" class="text ">
             <p><span>Prix</span></p>
           </div>
@@ -122,7 +122,7 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u607" class="ax_default table_cell">
-          <img id="u607_img" class="img " src="images/panier/u607.png"/>
+          <img id="u607_img" class="img " src="/assets/image/u607.png"/>
           <div id="u607_text" class="text ">
             <p><span>Quantité</span></p>
           </div>
@@ -130,32 +130,32 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u608" class="ax_default table_cell">
-          <img id="u608_img" class="img " src="images/panier/u608.png"/>
+          <img id="u608_img" class="img " src="/assets/image/u608.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u609" class="ax_default table_cell">
-          <img id="u609_img" class="img " src="images/panier/u606.png"/>
+          <img id="u609_img" class="img " src="/assets/image/u606.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u610" class="ax_default table_cell">
-          <img id="u610_img" class="img " src="images/panier/u607.png"/>
+          <img id="u610_img" class="img " src="/assets/image/u607.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u611" class="ax_default table_cell">
-          <img id="u611_img" class="img " src="images/panier/u611.png"/>
+          <img id="u611_img" class="img " src="/assets/image/u611.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u612" class="ax_default table_cell">
-          <img id="u612_img" class="img " src="images/panier/u612.png"/>
+          <img id="u612_img" class="img " src="/assets/image/u612.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u613" class="ax_default table_cell">
-          <img id="u613_img" class="img " src="images/panier/u613.png"/>
+          <img id="u613_img" class="img " src="/assets/image/u613.png"/>
         </div>
       </div>
 
@@ -174,7 +174,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u616" class="ax_default icon">
-        <img id="u616_img" class="img " src="images/e-boutique/u514.png"/>
+        <img id="u616_img" class="img " src="/assets/image/u514.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->

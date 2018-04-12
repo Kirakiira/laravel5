@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/favoris/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/favoris/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/favoris.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/favoris.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -51,7 +51,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u577" class="ax_default image">
-        <img id="u577_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u577_img" class="img " src="/assets/image/u1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -64,7 +64,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u579" class="ax_default icon">
-        <img id="u579_img" class="img " src="images/e-boutique/u495.png"/>
+        <img id="u579_img" class="img " src="/assets/image/u495.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -93,12 +93,12 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u583" class="ax_default icon">
-        <img id="u583_img" class="img " src="images/e-boutique/u499.png"/>
+        <img id="u583_img" class="img " src="/assets/image/u499.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u584" class="ax_default icon">
-        <img id="u584_img" class="img " src="images/e-boutique/u500.png"/>
+        <img id="u584_img" class="img " src="/assets/image/u500.png"/>
       </div>
 
       <!-- Unnamed (Table) -->
@@ -106,7 +106,7 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u586" class="ax_default heading_2">
-          <img id="u586_img" class="img " src="images/favoris/u586.png"/>
+          <img id="u586_img" class="img " src="/assets/image/u586.png"/>
           <div id="u586_text" class="text ">
             <p><span>Vos Favoris</span></p>
           </div>
@@ -114,12 +114,12 @@
 
         <!-- Unnamed (Table Cell) -->
         <div id="u587" class="ax_default table_cell">
-          <img id="u587_img" class="img " src="images/favoris/u587.png"/>
+          <img id="u587_img" class="img " src="/assets/image/u587.png"/>
         </div>
 
         <!-- Unnamed (Table Cell) -->
         <div id="u588" class="ax_default table_cell">
-          <img id="u588_img" class="img " src="images/favoris/u588.png"/>
+          <img id="u588_img" class="img " src="/assets/image/u588.png"/>
         </div>
       </div>
 
@@ -130,7 +130,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u590" class="ax_default icon">
-        <img id="u590_img" class="img " src="images/e-boutique/u514.png"/>
+        <img id="u590_img" class="img " src="/assets/image/u514.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
