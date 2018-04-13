@@ -12,10 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('bde_ajouter2');
+    return view('accueil');
 });
 
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/index', 'UserController@index');
