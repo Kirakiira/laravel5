@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/bde_-_supprimer/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/bde_supprimer.css" type="text/css" rel="stylesheet"/>
     <script src="/js/jquery-1.7.1.min.js"></script>
     <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="/js/prototypePre.js"></script>

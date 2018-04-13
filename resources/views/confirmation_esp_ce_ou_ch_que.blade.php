@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/confirmation_esp_ce_ou_ch_que/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/confirmation_esp_ce_ou_ch_que/data.js"></script>
+    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/confirmation_espece.css" type="text/css" rel="stylesheet"/>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/confirmation_espece.js"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -25,7 +25,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u651" class="ax_default image">
-        <img id="u651_img" class="img " src="images/accueil/u1.jpg"/>
+        <img id="u651_img" class="img " src="/assets/image/u1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -38,7 +38,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u653" class="ax_default icon">
-        <img id="u653_img" class="img " src="images/e-boutique/u495.png"/>
+        <img id="u653_img" class="img " src="/assets/image/u495.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -67,12 +67,12 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u657" class="ax_default icon">
-        <img id="u657_img" class="img " src="images/e-boutique/u499.png"/>
+        <img id="u657_img" class="img " src="/assets/image/u499.png"/>
       </div>
 
       <!-- Unnamed (Shape) -->
       <div id="u658" class="ax_default icon">
-        <img id="u658_img" class="img " src="images/e-boutique/u500.png"/>
+        <img id="u658_img" class="img " src="/assets/image/u500.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -132,7 +132,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u667" class="ax_default icon">
-        <img id="u667_img" class="img " src="images/e-boutique/u514.png"/>
+        <img id="u667_img" class="img " src="/assets/image/u514.png"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
