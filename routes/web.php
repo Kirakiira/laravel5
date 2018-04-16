@@ -106,3 +106,5 @@ Route::get('image.html' , function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/index', 'UserController@index');
