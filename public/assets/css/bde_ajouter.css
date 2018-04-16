@@ -291,9 +291,10 @@
   height:60px;
 }
 #u224_input {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:422px;
+  top:346px;
   width:426px;
   height:60px;
   font-family:'Arial Normal', 'Arial';
@@ -305,26 +306,6 @@
   text-align:left;
 }
 #u225_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:211px;
-  height:33px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial Gras', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:28px;
-  color:#FFFFFF;
-}
-#u225 {
   border-width:0px;
   position:absolute;
   left:151px;
@@ -345,6 +326,7 @@
   width:211px;
   white-space:nowrap;
 }
+
 #u226 {
   border-width:0px;
   position:absolute;
@@ -359,10 +341,13 @@
 #u226_text {
   border-width:0px;
   position:absolute;
-  left:16px;
-  top:0px;
-  width:89px;
-  word-wrap:break-word;
+  left:255px;
+  top:436px;
+  width:107px;
+  height:24px;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:center;
 }
 #u226_input {
   border-width:0px;
@@ -627,22 +612,6 @@
   width:115px;
   height:35px;
 }
-#u235_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:115px;
-  height:35px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#000000;
-}
-#u235_input:disabled {
-  color:grayText;
-}
 #u236 {
   border-width:0px;
   position:absolute;
@@ -651,22 +620,6 @@
   width:117px;
   height:35px;
 }
-#u236_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:117px;
-  height:35px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#000000;
-}
-#u236_input:disabled {
-  color:grayText;
-}
 #u237 {
   border-width:0px;
   position:absolute;
@@ -674,22 +627,6 @@
   top:847px;
   width:117px;
   height:35px;
-}
-#u237_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:117px;
-  height:35px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#000000;
-}
-#u237_input:disabled {
-  color:grayText;
 }
 #u238_div {
   border-width:0px;
@@ -788,5 +725,6 @@
   left:2px;
   top:4px;
   width:223px;
+  color:#FFFFFF;
   word-wrap:break-word;
 }
