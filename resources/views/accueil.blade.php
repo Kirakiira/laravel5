@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link rel="stylesheet" href="style.css"/>
-    <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="/assets/css/accueil.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?1"/>
+    <link href="/assets/css/axure_rp_page.css?1" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/styles.css?1" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/accueil.css?1" type="text/css" rel="stylesheet">
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css" />
