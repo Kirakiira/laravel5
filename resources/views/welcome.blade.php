@@ -9,8 +9,7 @@
     <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/new.css" type="text/css" rel="stylesheet"/>
-    <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
     <script

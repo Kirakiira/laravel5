@@ -75,38 +75,20 @@
         </div>
     </div>
 
-    <!-- Unnamed (Text Field) -->
-    <div id="u224" class="ax_default text_field">
-        <input id="u224_input" type="text" value=""/>
-    </div>
+    <!-- text area product name -->
+    <form id="" name="general">
+        <input id="u224_input" name="nom" type="text" value=""/>
+    </form>
 
     <!-- Unnamed (Rectangle) -->
     <div id="u225" class="ax_default heading_2">
-        <div id="u225_div" class=""></div>
         <div id="u225_text" class="text ">
             <p><span>Nom du Produit</span></p>
         </div>
     </div>
 
-    <!-- Unnamed (Radio Button) -->
-    <div id="u226" class="ax_default radio_button">
-        <label for="u226_input" style="position: absolute; left: 0px;">
-            <div id="u226_text" class="text ">
-                <p><span>Goodies</span></p>
-            </div>
-        </label>
-        <input id="u226_input" type="radio" value="radio" name="u226"/>
-    </div>
-
-    <!-- Unnamed (Radio Button) -->
-    <div id="u227" class="ax_default radio_button">
-        <label for="u227_input" style="position: absolute; left: 0px;">
-            <div id="u227_text" class="text ">
-                <p><span>Evenement</span></p>
-            </div>
-        </label>
-        <input id="u227_input" type="radio" value="radio" name="u227"/>
-    </div>
+    <label id="u226"><input id=u226_input" type="radio" name="check" value="1" /> Goodies</label>
+    <label id="u227"><input id="u227_input" type="radio" name="check" value="2" /> Evenement</label>
 
     <!-- Unnamed (Text Field) -->
     <div id="u228" class="ax_default text_field">
@@ -142,38 +124,72 @@
         </div>
     </div>
 
-    <!-- Unnamed (Text Field) -->
-    <div id="u233" class="ax_default text_field">
-        <input id="u233_input" type="text" value=""/>
-    </div>
-
     <!-- Unnamed (Rectangle) -->
     <div id="u234" class="ax_default heading_2">
         <div id="u234_div" class=""></div>
         <div id="u234_text" class="text ">
-            <p><span>URL Images</span></p>
+            <p><span>URL Image</span></p>
         </div>
     </div>
 
-    <!-- liste_heure (Droplist) -->
-    <div id="u235" class="ax_default droplist" data-label="liste_heure">
-        <select id="u235_input">
-            <option selected value="Heure">Heure</option>
-        </select>
-    </div>
+    <select id="u235">
+        <option>Heure</option>
+        <option>00h</option>
+        <option>01h</option>
+        <option>02h</option>
+        <option>03h</option>
+        <option>04h</option>
+        <option>05h</option>
+        <option>06h</option>
+        <option>07h</option>
+        <option>08h</option>
+        <option>09h</option>
+        <option>10h</option>
+        <option>11h</option>
+        <option>12h</option>
+        <option>13h</option>
+        <option>14h</option>
+        <option>15h</option>
+        <option>16h</option>
+        <option>17h</option>
+        <option>18h</option>
+        <option>19h</option>
+        <option>20h</option>
+        <option>21h</option>
+        <option>22h</option>
+        <option>23h</option>
+    </select>
 
-    <!-- liste_jour (Droplist) -->
-    <div id="u236" class="ax_default droplist" data-label="liste_jour">
-        <select id="u236_input">
-            <option value="Jour">Jour</option>
-        </select>
-    </div>
+    <select id="u236">
+        <option>Jour</option>
+        <option>Lundi</option>
+        <option>Mardi</option>
+        <option>Mercredi</option>
+        <option>Jeudi</option>
+        <option>Vendredi</option>
+        <option>Samedi</option>
+        <option>Dimanche</option>
+    </select>
 
-    <!-- liste_mois (Droplist) -->
-    <div id="u237" class="ax_default droplist" data-label="liste_mois">
-        <select id="u237_input">
-            <option selected value="Mois">Mois</option>
-        </select>
+    <select id="u237">
+        <option>Mois</option>
+        <option>Janvier</option>
+        <option>Février</option>
+        <option>Mars</option>
+        <option>Avril</option>
+        <option>Mai</option>
+        <option>Juin</option>
+        <option>Juillet</option>
+        <option>Août</option>
+        <option>Septembre</option>
+        <option>Octobre</option>
+        <option>Novembre</option>
+        <option>Décembre</option>
+    </select>
+
+    <!-- Unnamed (Text Field) -->
+    <div id="u233" class="ax_default text_field">
+        <input id="u233_input" type="text" value=""/>
     </div>
 
     <!-- Unnamed (Rectangle) -->
@@ -196,6 +212,7 @@
             <p><span>Déconnexion</span></p>
         </div>
     </div>
+
 </div>
 </body>
 </html>
