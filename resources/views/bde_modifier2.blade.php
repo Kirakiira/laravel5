@@ -80,6 +80,8 @@
         <input id="u272_input" type="text" value=""/>
     </div>
 
+    @yield('contenu')
+
     <!-- Unnamed (Rectangle) -->
     <div id="u273" class="ax_default heading_2">
         <div id="u273_div" class=""></div>
