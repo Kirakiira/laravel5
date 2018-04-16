@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('accueil');
+    return view('welcome');
 });
 
 Route::get('/accueil.html', function () {
@@ -20,11 +20,11 @@ Route::get('/accueil.html', function () {
 });
 
 Route::get('/connexion.html', function () {
-    return view('connexion');
+    return view('login');
 });
 
-Route::get('/inscription.html' , function () {
-    return view('inscription');
+Route::get('/register' , function () {
+    return view('register');
 });
 
 Route::get('/acceuil_connect___tudiant.html' , function () {
@@ -102,6 +102,13 @@ Route::get('confirmation_mot_de_passe.html' , function () {
 Route::get('image.html' , function () {
     return view('image');
 });
+
+Route::get('auth/facebook', 'FacebookController@redirectToProvider')-> name('facebook.login');
+Route::get('auth/facebook/callback', 'FacebookController@handleProviderCallback');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
 
 Auth::routes();
 
