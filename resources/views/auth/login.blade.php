@@ -38,6 +38,7 @@
                         <button class="btn waves-effect waves-light" type="submit" name="action">Se connecter
                             <i class="material-icons right">lock_open</i>
                         </button>
+                        <a href="{{ route('facebook.login')}}" class="btn btn-primary">Se connecter avec Facebook</a>
                         <a class="waves-effect waves-light btn" href="{{ route('password.request') }}">Mot de passe oublié ?<i class="material-icons right">message</i></a>
                     </div>
                 </form>

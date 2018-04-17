@@ -11,8 +11,8 @@ window.Popper = require('popper.js').default;
 try {
     window.$ = window.jQuery = require('jquery');
 
-    require('bootstrap-sass');
-
+    //require('bootstrap-sass');
+    require('materialize-css');
 
 } catch (e) {}
 
