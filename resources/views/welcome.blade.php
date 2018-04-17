@@ -144,7 +144,7 @@
         <div id="u9" class="ax_default link_button">
             <div id="u9_div" class=""></div>
             <div id="u9_text" class="text ">
-                <p><span>Nous Contacter</span></p>
+                <a href="http://laravel5.test/nous_contacter.html"><p><span>Nous Contacter</span></p></a>
             </div>
         </div>
 
@@ -152,7 +152,7 @@
         <div id="u10" class="ax_default link_button">
             <div id="u10_div" class=""></div>
             <div id="u10_text" class="text ">
-                <p><span>Mentions Légales</span></p>
+                <a href="http://laravel5.test/mentions_l_gales.html"><p><span>Mentions Légales</span></p></a>
             </div>
         </div>
 

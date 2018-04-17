@@ -16,14 +16,22 @@ Route::get('/', function () {
 });
 
 Route::get('/accueil.html', function () {
-    return view('accueil');
+    return view('welcome');
 });
 
-Route::get('/connexion.html', function () {
+Route::get('/home', function () {
     return view('login');
 });
 
+Route::get('/connexion.html', function () {
+    return view('/auth/login');
+});
+
 Route::get('/register' , function () {
+    return view('register');
+});
+
+Route::get('/inscription.html' , function () {
     return view('register');
 });
 
