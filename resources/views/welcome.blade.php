@@ -8,27 +8,11 @@
     <link href="/assets/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="/assets/css/new.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/stylesc.css" type="text/css" rel="stylesheet"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-    <script
-            src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script
-            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="/js/jquery-1.7.1.min.js"></script>
-    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="/js/prototypePre.js"></script>
-    <script src="/js/document.js"></script>
-    <script src="/js/prototypePost.js"></script>
-    <script src="/js/new.js"></script>
-    <script type="text/javascript">
-        $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
-        $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
-        $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
-    </script>
     <style>
-
         html, body {
             background-color: #fff;
             color: #CC0000;
@@ -58,14 +42,6 @@
             top: 20px;
         }
 
-        .content {
-            text-align: center;
-        }
-
-        .title {
-            font-size: 84px;
-        }
-
         .links > a {
             color: #CC0000;
             padding: 0 25px;
@@ -73,13 +49,25 @@
             font-weight: 600;
             letter-spacing: .1rem;
             text-decoration: none;
-            text-transform: uppercase;
-        }
+            text-transform: uppercase;}
 
-        .m-b-md {
-            margin-bottom: 30px;
-        }
     </style>
+    <script
+            src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="/js/prototypePre.js"></script>
+    <script src="/js/document.js"></script>
+    <script src="/js/prototypePost.js"></script>
+    <script src="/js/new.js"></script>
+    <script type="text/javascript">
+        $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+        $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+        $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+
 </head>
 <body>
 <div id="base" class="">
@@ -96,8 +84,8 @@
     </div>
     @endif
         <!-- Unnamed (Image) -->
-        <div id="u0" class="ax_default image">
-            <img id="u0_img" class="img " src="/assets/image/u1.jpg"/>
+        <div id="u1" class="ax_default image">
+            <img id="u1_img" class="img " src="/assets/image/u1.jpg"/>
         </div>
 
         <!-- Unnamed (Rectangle) -->
