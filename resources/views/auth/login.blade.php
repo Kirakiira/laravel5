@@ -13,33 +13,32 @@
                 <form  method="POST" action="{{ route('login') }}">
                     <div class="card-content">
                         {{ csrf_field() }}
-                        <span class="card-title">Login</span>
+                        <span class="card-title">Se connecter</span>
                         <hr>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">mail</i>
                                 <input id="email" type="email" name="email" value="{{ old('email') }}" class="{{ $errors->has('email') ? 'invalid' : '' }}" required autofocus>
-                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}">E-Mail Address</label>
+                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}">Adresse e-mail</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">lock</i>
                                 <input id="password" type="password" name="password" class="{{ $errors->has('password') ? 'invalid' : '' }}" required>
-                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}">Password</label>
+                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}">Mot de passe</label>
                             </div>
                         </div>
                         <p>
                             <input type="checkbox" id="remember" {{ old('remember') ? 'checked' : '' }}>
-                            <label for="remember">Remember Me</label>
+                            <label for="remember">Se souvenir de moi</label>
                         </p>
                     </div>
                     <div class="card-action">
-                        <button class="btn waves-effect waves-light" type="submit" name="action">Login
+                        <button class="btn waves-effect waves-light" type="submit" name="action">Se connecter
                             <i class="material-icons right">lock_open</i>
                         </button>
-                        <a href="{{ route('facebook.login')}}" class="btn btn-primary">Se connecter avec Facebook</a>
-                        <a class="waves-effect waves-light btn" href="{{ route('password.request') }}">Forgot Your Password?<i class="material-icons right">message</i></a>
+                        <a class="waves-effect waves-light btn" href="{{ route('password.request') }}">Mot de passe oublié ?<i class="material-icons right">message</i></a>
                     </div>
                 </form>
             </div>

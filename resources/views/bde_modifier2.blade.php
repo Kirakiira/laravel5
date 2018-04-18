@@ -7,7 +7,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link href="/assets/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="/assets/css/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/css/bde_modifier2.css" type="text/css" rel="stylesheet"/>
     <script src="/js/jquery-1.7.1.min.js"></script>
     <script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="/js/prototypePre.js"></script>
