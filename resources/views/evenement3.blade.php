@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>Week au Ski</title>
+    <title>Erasmus Vision</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -69,20 +69,25 @@
 
       <!-- Unnamed (Image) -->
       <div id="u393" class="ax_default image">
-        <img id="u393_img" class="img " src="/assets/image/photo1.jpg"/>
+        <img id="u393_img" class="img " src="/assets/image/photo2.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u394" class="ax_default paragraph">
         <div id="u394_div" class=""></div>
         <div id="u394_text" class="text ">
-          <p><span>Le 22/01/2018, </span></p><p><span><br></span></p><p><span>
-Bonjour à tous,
+          <p><span>Le 30/05/2017, </span></p><p><span><br></span></p><p><span>
+Bonjour à tous !
 
-Ca y est ! Les réservations pour le Week end ski sont ouvertes jusqu’au 09/02/2018 !
-Réservez vite vos places car nous n’avons que 60 places seulement.
-Si vous n’avez pas votre matériel, il faudra ajouter la location qui est de 26€ pour les ski et 31€ pour les snows. Les prix affichés ci-dessus comprennent : le transport, l’hébergement, le dîner du samedi, le petit déjeuner du dimanche, les remontées mécaniques pour 2 jours, et bien sûr un pot d’accueil !
-Bien évidemment, les débutants pourront bénéficier d’une initiation rapide le premier matin.</span></p>
+Ce jeudi 1er juin, nous organisons à la suite du karaoké ErasmusVision, un barbecue ouvert à tous ! Venez nombreux !
+Nous vous postons alors ce lien de questionnaire afin de savoir si nous pourrons vous compter parmi nous pour cet évènement (et mieux prévoir).
+
+Merci de répondre le plus vite possible ;)
+
+Voici le NOUVEAU lien : https://docs.google.com/…/1FAIpQLSdc7pVcJq6GEAjww…/viewform…
+
+Bonne soirée à tous,
+votre BDE préféré !</span></p>
         </div>
       </div>
 
@@ -90,7 +95,7 @@ Bien évidemment, les débutants pourront bénéficier d’une initiation rapide
       <div id="u395" class="ax_default heading_1">
         <div id="u395_div" class=""></div>
         <div id="u395_text" class="text ">
-          <p><span>Week-end au Ski - La Mongie</span></p>
+          <p><span>Erasmus Vision</span></p>
         </div>
       </div>
 
@@ -156,8 +161,7 @@ Bien évidemment, les débutants pourront bénéficier d’une initiation rapide
       <div id="u409" class="ax_default heading_1">
         <div id="u409_div" class=""></div>
         <div id="u409_text" class="text ">
-          <p><span>Tarif BDE : 100€
-                <br>Tarif : 115€</span></p>
+          <p><span>Tarif : Gratuit</span></p>
         </div>
       </div>
 
