@@ -105,6 +105,14 @@
           <p><span>Déconnexion</span></p>
         </div>
       </div>
+      <br><br><br>
+
+      <form id="uploadForm" enctype="multipart/form-data" action="upload.php" target="uploadFrame" method="post">
+        <label for="uploadFile">Image :</label>
+        <input id="uploadFile" name="uploadFile" type="file" />
+        <br /><br />
+        <input id="uploadSubmit" type="submit" value="Upload !" />
+      </form>
     </div>
   </body>
 </html>
