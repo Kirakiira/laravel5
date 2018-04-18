@@ -18,15 +18,17 @@
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">mail</i>
-                                <input id="email" type="email" name="email" value="{{ old('email') }}" class="{{ $errors->has('email') ? 'invalid' : '' }}" required autofocus>
-                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}">Adresse e-mail</label>
+                                <input id="email" type="email" name="email" value="{{ old('email') }}" class="{{ $errors->has('email') ? 'invalid' : '' }}" required autofocus placeholder="Adresse e-mail" required>
+                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}"></label>
+
+
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">lock</i>
-                                <input id="password" type="password" name="password" class="{{ $errors->has('password') ? 'invalid' : '' }}" required>
-                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}">Mot de passe</label>
+                                <input id="password" type="password" name="password" class="{{ $errors->has('password') ? 'invalid' : '' }}" required placeholder="Mot de passe" required>
+                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}"></label>
                             </div>
                         </div>
                         <p>
