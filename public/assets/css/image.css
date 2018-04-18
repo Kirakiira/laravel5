@@ -246,6 +246,12 @@
   top:13px;
   width:179px;
   word-wrap:break-word;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#FFFFFF;
+  text-align:center;
 }
 #u167_img {
   border-width:0px;
@@ -414,4 +420,5 @@
   top:4px;
   width:223px;
   word-wrap:break-word;
+  color:#FFFFFF;
 }

@@ -144,15 +144,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="/assets/image/photo1.JPG" alt="Los Angeles">
+                    <a href="http://laravel5.test/evenement.html"><img src="/assets/image/photo1.JPG" alt="Los Angeles"></a>
                 </div>
 
                 <div class="item">
-                    <img src="/assets/image/photo2.JPG" alt="Chicago">
+                    <a href="http://laravel5.test/evenement3.html"><img src="/assets/image/photo2.JPG" alt="Chicago"></a>
                 </div>
 
                 <div class="item">
-                    <img src="/assets/image/photo4.JPG" alt="New York">
+                    <a href="http://laravel5.test/evenement2.html"><img src="/assets/image/photo4.JPG" alt="New York"></a>
                 </div>
             </div>
 
