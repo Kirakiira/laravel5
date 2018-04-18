@@ -173,6 +173,14 @@
         </div>
       </div>
 
+      <iframe id="u397"
+              width="600"
+              height="450"
+              frameborder="0" style="border:0"
+              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3G7AGXNnjAR6cra1MXKHNjAfMHiLvR-0
+              &q=La+Mongie,Pyrénées" allowfullscreen>
+      </iframe>
+
       <!-- Unnamed (Rectangle) -->
       <div id="u410" class="ax_default button">
         <div id="u410_div" class=""></div>

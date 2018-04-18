@@ -75,13 +75,19 @@
         </div>
     </div>
 
-    <!-- Unnamed (Rectangle) -->
+    <!-- Unnamed (Text Area) -->
+    <form id="u421" class="ax_default text_area">
+        <textarea id="u421_input"></textarea>
+        <p id="u419_text">Envoyer<input id="u419_div" type="button" name="envoyer"/></p>
+    </form>
+
+    <!-- Unnamed (Rectangle)
     <div id="u419" class="ax_default button">
         <div id="u419_div" class=""></div>
         <div id="u419_text" class="text ">
             <p><span>Envoyer</span></p>
         </div>
-    </div>
+    </div>  -->
 
     <!-- Unnamed (Rectangle) -->
     <div id="u420" class="ax_default heading_2">
@@ -89,11 +95,6 @@
         <div id="u420_text" class="text ">
             <p><span>Cher étudiant de notre école du Cesi, ceci est la boîte à idée, un endroit où toute idée est à prendre, soyez inspiré car nous avons besoin de bonnes idées !</span></p>
         </div>
-    </div>
-
-    <!-- Unnamed (Text Area) -->
-    <div id="u421" class="ax_default text_area">
-        <textarea id="u421_input"></textarea>
     </div>
 
     <!-- Unnamed (Rectangle) -->
@@ -113,7 +114,7 @@
     <div id="u424" class="ax_default paragraph">
         <div id="u424_div" class=""></div>
         <div id="u424_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 
@@ -121,7 +122,7 @@
     <div id="u425" class="ax_default paragraph">
         <div id="u425_div" class=""></div>
         <div id="u425_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 
@@ -149,7 +150,7 @@
     <div id="u430" class="ax_default paragraph">
         <div id="u430_div" class=""></div>
         <div id="u430_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 
@@ -157,7 +158,7 @@
     <div id="u431" class="ax_default paragraph">
         <div id="u431_div" class=""></div>
         <div id="u431_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 
@@ -185,7 +186,7 @@
     <div id="u436" class="ax_default paragraph">
         <div id="u436_div" class=""></div>
         <div id="u436_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 
@@ -203,7 +204,7 @@
     <div id="u439" class="ax_default paragraph">
         <div id="u439_div" class=""></div>
         <div id="u439_text" class="text ">
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+            <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p>
         </div>
     </div>
 

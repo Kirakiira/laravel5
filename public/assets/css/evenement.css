@@ -372,6 +372,12 @@
   top:13px;
   width:388px;
   word-wrap:break-word;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#FFFFFF;
+  text-align:center;
 }
 #u397_img {
   border-width:0px;
@@ -662,6 +668,12 @@
   top:16px;
   width:360px;
   word-wrap:break-word;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+  text-align:center;
 }
 #u408_div {
   border-width:0px;
@@ -695,6 +707,12 @@
   top:16px;
   width:360px;
   word-wrap:break-word;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+  text-align:center;
 }
 #u409_div {
   border-width:0px;
@@ -771,4 +789,5 @@
   top:4px;
   width:223px;
   word-wrap:break-word;
+  color:#FFFFFF;
 }

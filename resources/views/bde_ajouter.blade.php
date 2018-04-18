@@ -75,13 +75,20 @@
         </div>
     </div>
 
-    <!-- text area product name -->
-    <form id="" name="general">
-        <input id="u224_input" name="nom" type="text" value=""/>
+    <form method="get" action="recupere.htm">
+        <input id="u224_input" type="text" name="nom_produit" />
+        <input id="u228_input" type="text" name="prix" />
+        <input id="u233_input" type="text" name="url_image" />
     </form>
+
+    <!-- text area product name
+    <form name="general">
+        <input id="u224_input" name="nom" type="text" value=""/>
+    </form> -->
 
     <!-- Unnamed (Rectangle) -->
     <div id="u225" class="ax_default heading_2">
+        <div id="u225_div" class=""></div>
         <div id="u225_text" class="text ">
             <p><span>Nom du Produit</span></p>
         </div>
@@ -90,10 +97,10 @@
     <label id="u226"><input id=u226_input" type="radio" name="check" value="1" /> Goodies</label>
     <label id="u227"><input id="u227_input" type="radio" name="check" value="2" /> Evenement</label>
 
-    <!-- Unnamed (Text Field) -->
-    <div id="u228" class="ax_default text_field">
-        <input id="u228_input" type="text" value=""/>
-    </div>
+       <!-- Unnamed (Text Field)
+    <form id="u228" name="general">
+        <input id="u228_input" name="prix" type="text" value=""/>
+    </form> -->
 
     <!-- Unnamed (Rectangle) -->
     <div id="u229" class="ax_default heading_2">
@@ -187,10 +194,10 @@
         <option>Décembre</option>
     </select>
 
-    <!-- Unnamed (Text Field) -->
-    <div id="u233" class="ax_default text_field">
-        <input id="u233_input" type="text" value=""/>
-    </div>
+    <!-- Unnamed (Text Field)
+    <form id="u233" name="general">
+        <input id="u233_input" name="url_image" type="text" value=""/>
+    </form> -->
 
     <!-- Unnamed (Rectangle) -->
     <div id="u238" class="ax_default heading_2">
@@ -212,6 +219,19 @@
             <p><span>Déconnexion</span></p>
         </div>
     </div>
+
+        <form id="form_maps" method="get" action="">
+            <p id="lieu_texte">Lieu:<input id="form_maps_input" type="text" name="lieu" /></p>
+            <p><input type="button" name="url_image" /></p>
+        </form>
+
+    <iframe id="u239"
+            width="600"
+            height="450"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3G7AGXNnjAR6cra1MXKHNjAfMHiLvR-0
+    &q=Space+Needle,Seattle+WA" allowfullscreen>
+    </iframe>
 
 </div>
 </body>

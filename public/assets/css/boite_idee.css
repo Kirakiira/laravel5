@@ -304,9 +304,6 @@
   background-color:rgba(255, 255, 255, 1);
   border:none;
   border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
   font-size:28px;
   color:#000000;
 }
@@ -323,10 +320,16 @@
 #u419_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:13px;
+  left:225px;
+  top:340px;
   width:179px;
   word-wrap:break-word;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+  text-align:center;
 }
 #u420_div {
   border-width:0px;
@@ -982,4 +985,5 @@
   top:4px;
   width:223px;
   word-wrap:break-word;
+  color:#FFFFFF;
 }

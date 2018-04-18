@@ -91,7 +91,7 @@ Route::get('liste_des_evenement.html' , function () {
     return view('liste_des_evenement');
 });
 
-Route::get('bo_te___id_e.html' , function () {
+Route::get('boite_idee.html' , function () {
     return view('boite_idee');
 });
 
@@ -101,6 +101,46 @@ Route::get('confirmation_mot_de_passe.html' , function () {
 
 Route::get('image.html' , function () {
     return view('image');
+});
+
+Route::get('bde_ajouter.html' , function () {
+    return view('bde_ajouter');
+});
+
+Route::get('bde_ajouter2.html' , function () {
+    return view('bde_ajouter2');
+});
+
+Route::get('bde_modifier.html' , function () {
+    return view('bde_modifier');
+});
+
+Route::get('bde_modifier2.html' , function () {
+    return view('bde_modifier2');
+});
+
+Route::get('bde_modifier3.html' , function () {
+    return view('bde_modifier3');
+});
+
+Route::get('bde_supprimer.html' , function () {
+    return view('bde_supprimer');
+});
+
+Route::get('bde_supprimer2.html' , function () {
+    return view('bde_supprimer2');
+});
+
+Route::get('bde_gestion_evenement.html' , function () {
+    return view('bde_gestion_evenement');
+});
+
+Route::get('bde_menu_evenement.html' , function () {
+    return view('bde_menu_evenement');
+});
+
+Route::get('evenement.html' , function () {
+    return view('evenement');
 });
 
 Route::get('auth/facebook', 'FacebookController@redirectToProvider')-> name('facebook.login');
