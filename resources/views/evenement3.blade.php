@@ -112,7 +112,7 @@ votre BDE préféré !</span></p>
               height="450"
               frameborder="0" style="border:0"
               src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3G7AGXNnjAR6cra1MXKHNjAfMHiLvR-0
-              &q=La+Mongie,Pyrénées" allowfullscreen>
+              &q=60+Rue+de+Maurian,+33290+Blanquefort" allowfullscreen>
       </iframe>
 
       <!-- Unnamed (Shape) -->
