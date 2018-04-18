@@ -111,6 +111,14 @@ Route::get('image.html' , function () {
     return view('image');
 });
 
+Route::get('bde_ajouter.html' , function () {
+    return view('bde_ajouter');
+});
+
+Route::get('evenement.html' , function () {
+    return view('evenement');
+});
+
 Route::get('auth/facebook', 'FacebookController@redirectToProvider')-> name('facebook.login');
 Route::get('auth/facebook/callback', 'FacebookController@handleProviderCallback');
 

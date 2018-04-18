@@ -90,7 +90,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u133" class="ax_default image">
-        <img id="u133_img" class="img " src="/assets/image/u133.png"/>
+        <img id="u133_img" class="img " src="/assets/image/Kiwi.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->

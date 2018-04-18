@@ -89,7 +89,7 @@
     <div id="u9" class="ax_default link_button">
         <div id="u9_div" class=""></div>
         <div id="u9_text" class="text ">
-            <p><span>Evenement</span></p>
+            <p><span>Évenement</span></p>
         </div>
     </div>
 

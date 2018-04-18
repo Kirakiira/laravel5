@@ -69,14 +69,20 @@
 
       <!-- Unnamed (Image) -->
       <div id="u393" class="ax_default image">
-        <img id="u393_img" class="img " src="/assets/image/u367.png"/>
+        <img id="u393_img" class="img " src="/assets/image/photo1.jpg"/>
       </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u394" class="ax_default paragraph">
         <div id="u394_div" class=""></div>
         <div id="u394_text" class="text ">
-          <p><span>Le xx/xx/xxxx, </span></p><p><span><br></span></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</span></p>
+          <p><span>Le 22/01/2018, </span></p><p><span><br></span></p><p><span>
+Bonjour à tous,
+
+Ca y est ! Les réservations pour le Week end ski sont ouvertes jusqu’au 09/02/2018 !
+Réservez vite vos places car nous n’avons que 60 places seulement.
+Si vous n’avez pas votre matériel, il faudra ajouter la location qui est de 26€ pour les ski et 31€ pour les snows. Les prix affichés ci-dessus comprennent : le transport, l’hébergement, le dîner du samedi, le petit déjeuner du dimanche, les remontées mécaniques pour 2 jours, et bien sûr un pot d’accueil !
+Bien évidemment, les débutants pourront bénéficier d’une initiation rapide le premier matin.</span></p>
         </div>
       </div>
 
@@ -84,7 +90,7 @@
       <div id="u395" class="ax_default heading_1">
         <div id="u395_div" class=""></div>
         <div id="u395_text" class="text ">
-          <p><span>Titre évenement</span></p>
+          <p><span>Week-end au Ski - La Mongie</span></p>
         </div>
       </div>
 
@@ -96,45 +102,26 @@
         </div>
       </div>
 
-      <!-- Unnamed (Placeholder) -->
-      <div id="u397" class="ax_default placeholder">
-        <img id="u397_img" class="img " src="/assets/image/u371.png"/>
-      </div>
+      <iframe id="u397"
+              width="600"
+              height="450"
+              frameborder="0" style="border:0"
+              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3G7AGXNnjAR6cra1MXKHNjAfMHiLvR-0
+              &q=La+Mongie,Pyrénées" allowfullscreen>
+      </iframe>
 
       <!-- Unnamed (Shape) -->
       <div id="u398" class="ax_default icon">
         <img id="u398_img" class="img " src="/assets/image/u372.png"/>
       </div>
 
-      <!-- Unnamed (Shape) -->
-      <div id="u399" class="ax_default icon">
-        <img id="u399_img" class="img " src="/assets/image/u373.png"/>
-      </div>
+
 
       <!-- Unnamed (Text Field) -->
       <div id="u400" class="ax_default text_field">
         <input id="u400_input" type="text" value="1"/>
       </div>
 
-      <!-- Unnamed (Text Field) -->
-      <div id="u401" class="ax_default text_field">
-        <input id="u401_input" type="text" value="1"/>
-      </div>
-
-      <!-- Unnamed (Image) -->
-      <div id="u402" class="ax_default image">
-        <img id="u402_img" class="img " src="/assets/image/u376.png"/>
-      </div>
-
-      <!-- Unnamed (Image) -->
-      <div id="u403" class="ax_default image">
-        <img id="u403_img" class="img " src="/assets/image/u376.png"/>
-      </div>
-
-      <!-- Unnamed (Image) -->
-      <div id="u404" class="ax_default image">
-        <img id="u404_img" class="img " src="/assets/image/u376.png"/>
-      </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u405" class="ax_default heading_1">
@@ -153,7 +140,7 @@
       <div id="u407" class="ax_default button">
         <div id="u407_div" class=""></div>
         <div id="u407_text" class="text ">
-          <p><span>Mettre au Panier</span></p>
+          <a href="http://laravel5.test/panier.html"><p><span>Mettre au Panier</span></p></a>
         </div>
       </div>
 
@@ -161,7 +148,7 @@
       <div id="u408" class="ax_default button">
         <div id="u408_div" class=""></div>
         <div id="u408_text" class="text ">
-          <p><span>Ajouter au favoris</span></p>
+          <a href="http://laravel5.test/favoris.html"><p><span>Ajouter au favoris</span></p></a>
         </div>
       </div>
 
@@ -169,7 +156,8 @@
       <div id="u409" class="ax_default heading_1">
         <div id="u409_div" class=""></div>
         <div id="u409_text" class="text ">
-          <p><span>Prix évenement</span></p>
+          <p><span>Tarif BDE : 100€
+                <br>Tarif : 115€</span></p>
         </div>
       </div>
 
