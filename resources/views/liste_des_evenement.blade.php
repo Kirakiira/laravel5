@@ -109,15 +109,15 @@
 
       <!-- Unnamed (Image) -->
       <div id="u336" class="ax_default image">
-        <a href="http://laravel5.test/evenement.html"><img id="u333_img" class="img " src="assets/image/photo4.jpg"/></a>
+        <a href="http://laravel5.test/evenement2.html"><img id="u333_img" class="img " src="assets/image/photo4.jpg"/></a>
       </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u337" class="ax_default heading_2">
         <div id="u337_div" class=""></div>
         <div id="u337_text" class="text ">
-          <a href="http://laravel5.test/evenement.html"><p><span>Pull du BDE</span></p></a>
-          <a href="http://laravel5.test/evenement.html"><p><span>Le 20/11/2017</span></p></a>
+          <a href="http://laravel5.test/evenement2.html"><p><span>Pull du BDE</span></p></a>
+          <a href="http://laravel5.test/evenement2.html"><p><span>Le 20/11/2017</span></p></a>
         </div>
       </div>
 
@@ -128,15 +128,15 @@
 
       <!-- Unnamed (Image) -->
       <div id="u339" class="ax_default image">
-        <a href="http://laravel5.test/evenement.html"><img id="u333_img" class="img " src="assets/image/photo2.jpg"/></a>
+        <a href="http://laravel5.test/evenement3.html"><img id="u333_img" class="img " src="assets/image/photo2.jpg"/></a>
       </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u340" class="ax_default heading_2">
         <div id="u340_div" class=""></div>
         <div id="u340_text" class="text ">
-          <a href="http://laravel5.test/evenement.html"><p><span>Erasmus Vision</span></p></a>
-          <a href="http://laravel5.test/evenement.html"><p><span>Le 30/05/2017</span></p></a>
+          <a href="http://laravel5.test/evenement3.html"><p><span>Erasmus Vision</span></p></a>
+          <a href="http://laravel5.test/evenement3.html"><p><span>Le 30/05/2017</span></p></a>
         </div>
       </div>
 
@@ -147,15 +147,15 @@
 
       <!-- Unnamed (Image) -->
       <div id="u342" class="ax_default image">
-        <a href="http://laravel5.test/evenement.html"><img id="u333_img" class="img " src="assets/image/photo5.jpg"/></a>
+        <a href="http://laravel5.test/evenement4.html"><img id="u333_img" class="img " src="assets/image/photo5.jpg"/></a>
       </div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u343" class="ax_default heading_2">
         <div id="u343_div" class=""></div>
         <div id="u343_text" class="text ">
-          <a href="http://laravel5.test/evenement.html"><p><span>Les Crèpes du BDE</span></p></a>
-          <a href="http://laravel5.test/evenement.html"><p><span>Le 21/05/2017</span></p></a>
+          <a href="http://laravel5.test/evenement4.html"><p><span>Les Crèpes du BDE</span></p></a>
+          <a href="http://laravel5.test/evenement4.html"><p><span>Le 21/05/2017</span></p></a>
         </div>
       </div>
 
