@@ -75,13 +75,19 @@
         </div>
     </div>
 
-    <!-- Unnamed (Rectangle) -->
+    <!-- Unnamed (Text Area) -->
+    <form id="u421" class="ax_default text_area">
+        <textarea id="u421_input"></textarea>
+        <p id="u419_text">Envoyer<input id="u419_div" type="button" name="envoyer"/></p>
+    </form>
+
+    <!-- Unnamed (Rectangle)
     <div id="u419" class="ax_default button">
         <div id="u419_div" class=""></div>
         <div id="u419_text" class="text ">
             <p><span>Envoyer</span></p>
         </div>
-    </div>
+    </div>  -->
 
     <!-- Unnamed (Rectangle) -->
     <div id="u420" class="ax_default heading_2">
@@ -89,11 +95,6 @@
         <div id="u420_text" class="text ">
             <p><span>Cher étudiant de notre école du Cesi, ceci est la boîte à idée, un endroit où toute idée est à prendre, soyez inspiré car nous avons besoin de bonnes idées !</span></p>
         </div>
-    </div>
-
-    <!-- Unnamed (Text Area) -->
-    <div id="u421" class="ax_default text_area">
-        <textarea id="u421_input"></textarea>
     </div>
 
     <!-- Unnamed (Rectangle) -->

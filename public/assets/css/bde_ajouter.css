@@ -308,6 +308,26 @@
 #u225_div {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#FFFFFF;
+}
+#u225 {
+  border-width:0px;
+  position:absolute;
   left:151px;
   top:360px;
   width:211px;
@@ -326,7 +346,6 @@
   width:211px;
   white-space:nowrap;
 }
-
 #u226 {
   border-width:0px;
   position:absolute;
@@ -389,9 +408,10 @@
   height:60px;
 }
 #u228_input {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:422px;
+  top:490px;
   width:426px;
   height:60px;
   font-family:'Arial Normal', 'Arial';
@@ -550,9 +570,10 @@
   height:60px;
 }
 #u233_input {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:422px;
+  top:750px;
   width:426px;
   height:60px;
   font-family:'Arial Normal', 'Arial';
@@ -684,6 +705,34 @@
   top:327px;
   width:524px;
   height:573px;
+}
+#lieu_texte {
+  border-width:0px;
+  position:absolute;
+  left:1058px;
+  top:250px;
+  width:54px;
+  height:33px;
+  font-family:'Arial Gras', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+}
+#form_maps_input {
+  border-width:1px;
+  position:absolute;
+  left:100px;
+  top:-10px;
+  width:426px;
+  height:60px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u239_text {
   border-width:0px;
