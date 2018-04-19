@@ -72,7 +72,7 @@
     <div id="u102" class="ax_default link_button">
         <div id="u102_div" class=""></div>
         <div id="u102_text" class="text ">
-            <p><span>Evenement</span></p>
+            <p><span>Évenement</span></p>
         </div>
     </div>
 
@@ -144,15 +144,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="/assets/image/photo1.JPG" alt="Los Angeles">
+                    <a href="http://laravel5.test/evenement.html"><img src="/assets/image/photo1.JPG" alt="Los Angeles"></a>
                 </div>
 
                 <div class="item">
-                    <img src="/assets/image/photo1.JPG" alt="Chicago">
+                    <a href="http://laravel5.test/evenement3.html"><img src="/assets/image/photo2.JPG" alt="Chicago"></a>
                 </div>
 
                 <div class="item">
-                    <img src="/assets/image/photo1.JPG" alt="New York">
+                    <a href="http://laravel5.test/evenement2.html"><img src="/assets/image/photo4.JPG" alt="New York"></a>
                 </div>
             </div>
 

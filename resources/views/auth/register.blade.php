@@ -18,29 +18,29 @@
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">person</i>
-                                <input id="name" type="text" name="name" value="{{ old('name') }}" class="{{ $errors->has('name') ? 'invalid' : '' }}" required autofocus>
-                                <label for="name" data-error="{{ $errors->has('name') ? $errors->first('name'): '' }}">Nom</label>
+                                <input id="name" type="text" name="name" value="{{ old('name') }}" class="{{ $errors->has('name') ? 'invalid' : '' }}" required autofocus placeholder="Nom" required>
+                                <label for="name" data-error="{{ $errors->has('name') ? $errors->first('name'): '' }}"></label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">mail</i>
-                                <input id="email" type="email" name="email" value="{{ old('email') }}" class="{{ $errors->has('email') ? 'invalid' : '' }}" required autofocus>
-                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}">Adresse e-mail</label>
+                                <input id="email" type="email" name="email" value="{{ old('email') }}" class="{{ $errors->has('email') ? 'invalid' : '' }}" required autofocus placeholder="Adresse e-mail" required>
+                                <label for="email" data-error="{{ $errors->has('email') ? $errors->first('email'): '' }}"></label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">lock</i>
-                                <input id="password" type="password" name="password" class="{{ $errors->has('password') ? 'invalid' : '' }}" required>
-                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}">Mot de passe</label>
+                                <input id="password" type="password" name="password" class="{{ $errors->has('password') ? 'invalid' : '' }}" required placeholder="Mot de passe" required>
+                                <label for="password" data-error="{{ $errors->has('password') ? $errors->first('password'): '' }}"></label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">lock</i>
-                                <input id="password-confirm" type="password" name="password_confirmation" required>
-                                <label for="password-confirm">Confirmer le mot de passe</label>
+                                <input id="password-confirm" type="password" name="password_confirmation" required placeholder="Confirmer le mot de passe" required>
+                                <label for="password-confirm"></label>
                             </div>
                         </div>
                     </div>

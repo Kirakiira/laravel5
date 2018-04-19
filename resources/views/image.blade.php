@@ -66,13 +66,13 @@
       <div id="u166" class="ax_default button">
         <div id="u166_div" class=""></div>
         <div id="u166_text" class="text ">
-          <p><span>Retour</span></p>
+          <a href="http://laravel5.test/galerie_de_photo.html"><p><span>Retour</span></p></a>
         </div>
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u167" class="ax_default image">
-        <img id="u167_img" class="img " src="/assets/image/u167.png"/>
+        <img id="u167_img" class="img " src="/assets/image/capture1.jpg"/>
       </div>
 
       <!-- Unnamed (Shape) -->

@@ -149,6 +149,21 @@ Route::get('bde_menu_evenement.html' , function () {
 
 Route::get('evenement.html' , function () {
     return view('evenement');
+=======
+Route::get('evenement.html' , function () {
+    return view('evenement');
+});
+
+Route::get('evenement2.html' , function () {
+    return view('evenement2');
+});
+
+Route::get('evenement3.html' , function () {
+    return view('evenement3');
+});
+
+Route::get('evenement4.html' , function () {
+    return view('evenement4');
 });
 
 Route::get('auth/facebook', 'FacebookController@redirectToProvider')-> name('facebook.login');
